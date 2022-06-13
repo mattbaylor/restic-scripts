@@ -1,6 +1,6 @@
 #!/bin/bash
 
-. /home/edaly/restic_backup/restic_env.sh
+. /opt/restic-scripts/restic_env.sh
 
 echo "-"
 echo "-"

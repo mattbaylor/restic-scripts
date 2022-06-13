@@ -1,3 +1,1 @@
 # exclude testuser account in cloud (often used for temporary file transfers and not necessary to back up permanently)
-/home/user/restic/sources/cloud/testuser
-/home/user/restic/sources/cloud/anotheruser
